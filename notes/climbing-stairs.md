@@ -126,6 +126,7 @@ O(1)
 ## Alternative Solutions
 idk
 
+<img width="1435" height="738" alt="image" src="https://github.com/user-attachments/assets/d703476c-c108-402e-a556-25d777b45a46" />
 
 ---
 
