@@ -100,6 +100,9 @@ We recalculate second as the sum of the old first and old second, because:
 ways(i) = ways(i-1) + ways(i-2)
 
 ==============================================================
+
+
+
 There is 1 way to get to the first step.
 There are 2 ways to get to the second step.
 
